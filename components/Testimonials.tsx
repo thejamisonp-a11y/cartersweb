@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { QuoteIcon, StarIcon } from './icons/Icons';
 

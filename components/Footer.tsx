@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { CARTERS_LOGO_BASE64 } from '../constants';
 import { FacebookIcon, TwitterIcon, InstagramIcon, LinkedinIcon } from './icons/Icons';

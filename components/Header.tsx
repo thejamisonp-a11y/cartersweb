@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { CARTERS_LOGO_BASE64 } from '../constants';
 import { MailIcon, MenuIcon, PhoneIcon, XIcon } from './icons/Icons';
